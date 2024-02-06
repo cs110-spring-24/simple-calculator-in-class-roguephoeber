@@ -109,8 +109,8 @@ Enter your num 2: 2
 
 If you do any of these, mark an *x* in the square brackets on the left of the problem. For example, instead of [ ], it should be [x]. This will help us know that you did that problem.
 
-- [ ] \[+5\] What happens when we try to divide by 0? Write code to fix this problem.
-- [ ] \[+5\] If the user enters an invalid operator, print out a message informing the user that they entered an invalid operator. Print out the valid operators after.
+- [x] \[+5\] What happens when we try to divide by 0? Write code to fix this problem.
+- [x] \[+5\] If the user enters an invalid operator, print out a message informing the user that they entered an invalid operator. Print out the valid operators after.
 
 ## Submission
 
